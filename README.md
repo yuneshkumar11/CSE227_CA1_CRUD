@@ -1,3 +1,1 @@
-# CSE227_CA1_CRUD
-# CSE227_CA1_CRUD
-# CSE227_CA1_CRUD
+ca1 solution of set A. i solved one problem where teacher is applying CURD operation on student data(name, roll number, mark). where teacher is adding student data, edit and update that data, read that data, delete as well.
